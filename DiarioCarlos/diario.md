@@ -14,3 +14,8 @@
 - **9:30:** Cena/Merienda
 - **10:00:** Free time
 - **11:00:** Dormir
+
+## Fin de semana
+
+- **Sabado:** Quehacer general y algo de estudio por las tardes
+- **Domingo:** Normalmente jugar con amigos o salir a caminar, pasear, ver peliculas, un día para mi.
